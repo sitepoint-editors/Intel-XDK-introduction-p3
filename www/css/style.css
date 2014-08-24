@@ -1,0 +1,16 @@
+#photo h3{
+    text-align: center;
+    margin: 5px;
+}
+
+#photo img{
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+
+#photo button{
+    display: block;
+    margin: 0 auto;
+    margin-top: 15px;
+}
